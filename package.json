@@ -1,0 +1,23 @@
+{
+  "name": "js-html-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ez-sherlock/node-js-html-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ez-sherlock/node-js-html-server/issues"
+  },
+  "homepage": "https://github.com/ez-sherlock/node-js-html-server#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
